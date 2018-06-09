@@ -1,6 +1,6 @@
 import urllib.request
-url = input("Enter the Youtube-url\n")
-name = input("Enter the name for the video\n")
+url = "Enter the Youtube-url"
+
 name=name+".mp4"
 try:
     print("Downloading starts...\n")
